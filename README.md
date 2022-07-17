@@ -1,4 +1,4 @@
-# Laravel 5.8 Multiple Authentication Using Custom Guard
+# Laravel 5.8, 7, 8, or 9 Multiple Authentication Using Custom Guard
 In this Laravel multi (auth) authentication tutorial we will learn how to create separate admin panel or login using custom guard. Laravel multi (auth) authentication system allows to create multiple users login in single application.
 
 Install Laravel 5.8

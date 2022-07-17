@@ -3,7 +3,9 @@ In this Laravel multi (auth) authentication tutorial we will learn how to create
 
 Install Laravel 5.8
 First of all we need to create a fresh laravel project, download and install Laravel 5.8 using the below command
+```php
 composer create-project --prefer-dist laravel/laravel laraMultiAuth
+```
 
 Configure Database In .env file
 Now, lets create a MySQL database and connect it with laravel application. After creating database we need to set database credential in application’s .env file.
